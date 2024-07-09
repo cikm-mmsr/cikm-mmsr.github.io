@@ -56,6 +56,6 @@ Submissions must describe original work not previously published, not accepted f
 {: .box-note}
 References are not counted in the page limit.
 
-**Submit to CIKM MMSR'24: https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR**
+**Submit to CIKM MMSR'24: [https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR)**
 
 The deadline for paper submission is **August 10, 2024** (23:59 P.M. GMT)
