@@ -58,4 +58,4 @@ References are not counted in the page limit.
 
 The link for submissions to CIKM MMSR'24 will be posted here
 
-The deadline for paper submission is **July 29, 2024** (11: 59 P.M. AoE)
+The deadline for paper submission is **August 10, 2024** (23:59 P.M. GMT)
