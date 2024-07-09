@@ -22,7 +22,7 @@ The workshop will include keynote speeches, research paper presentations, intera
 ## Important Dates
 
 {: .box-note}
-All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zones/aoe/)
+All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zones/gmt/)
 
 
 | Task                                    | Deadline              |
