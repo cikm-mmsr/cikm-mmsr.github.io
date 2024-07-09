@@ -27,7 +27,7 @@ All deadlines are at 11: 59 P.M. [AoE](https://www.worldtimeserver.com/time-zone
 
 | Task                                    | Deadline              |
 | --------------------------------------- | --------------------- |
-| Paper submission deadline               | July 29, 2024         |
+| Paper submission deadline               | August 10, 2024         |
 | Notification of acceptance              | August 30, 2024       |
 | Camera Ready Version of Papers Due      | September 30, 2024    |
 | MMSR '24 Workshop                       |  October 25, 2024     |
