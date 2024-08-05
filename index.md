@@ -31,3 +31,47 @@ All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zone
 | Notification of acceptance              | August 30, 2024       |
 | Camera Ready Version of Papers Due      | September 30, 2024    |
 | MMSR '24 Workshop                       |  October 25, 2024     |
+
+## Keynote Speakers
+
+<div style="margin-top: 3rem;margin-bottom: 4rem;">
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
+    <img src="assets/img/vamsi.jpeg" alt="Vamsi Salaka" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://www.linkedin.com/in/vamsisalaka/" style="text-decoration: none;color: black;">Dr. Vamsi Salaka</a></strong> is the Head of Visual Search at Amazon where he oversees initiatives to build cutting edge image and multimodal search systems.
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 2rem;">
+    <img src="assets/img/yubin.jpeg" alt="Yubin Kim" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none;color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
+    </div>
+  </div>
+</div>
+
+## Organizers
+
+<div style="margin-top: 2rem;display: flex; flex-wrap: wrap; gap: 1rem;">
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/aditya.jpg" alt="Aditya Chichani" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong><a href="https://www.linkedin.com/in/aditya-chichani/" style="text-decoration: none;color: black;">Aditya Chichani</a></strong>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/surya.jpg" alt="Surya Kallumadi" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong><a href="https://www.linkedin.com/in/surya-kallumadi-a0778a13/" style="text-decoration: none;color: black;">Surya Kallumadi</a></strong>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/tracy.jpeg" alt="Tracy Holloway King" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong>
+    <a href="https://www.linkedin.com/in/tracyhollowayking/" style="text-decoration: none;color: black;">Tracy Holloway King</a>
+    </strong>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <img src="assets/img/andrei.jpeg" alt="Andrei Lopatenko" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-bottom: 1rem;">
+    <strong><a href="https://www.linkedin.com/in/lopatenko/" style="text-decoration: none;color: black;">Andrei Lopatenko</a></strong>
+  </div>
+</div>
