@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CIKM MMSR ‘24 
+title: CIKM MMSR ‘24
 subtitle: 1st Workshop on Multimodal Search and Recommendations
 ---
 
@@ -24,13 +24,14 @@ The workshop will include keynote speeches, research paper presentations, intera
 {: .box-note}
 All deadlines are at 23: 59 P.M. [GMT](https://www.worldtimeserver.com/time-zones/gmt/)
 
+Deadline for [Paper Submission](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR) has been extended to August 16, 2024
 
-| Task                                    | Deadline              |
-| --------------------------------------- | --------------------- |
-| [Paper submission deadline](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR)               | August 10, 2024         |
-| Notification of acceptance              | August 30, 2024       |
-| Camera Ready Version of Papers Due      | September 30, 2024    |
-| MMSR '24 Workshop                       |  October 25, 2024     |
+| Task                                                                                         | Deadline                                |
+| -------------------------------------------------------------------------------------------- | --------------------------------------- |
+| [Paper submission deadline](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR) | ~~August 10, 2024~~ **August 16, 2024** |
+| Notification of acceptance                                                                   | August 30, 2024                         |
+| Camera Ready Version of Papers Due                                                           | September 30, 2024                      |
+| MMSR '24 Workshop                                                                            | October 25, 2024                        |
 
 ## Keynote Speakers
 
