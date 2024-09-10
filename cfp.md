@@ -58,3 +58,11 @@ References are not counted in the page limit.
 **Submit to CIKM MMSR'24: [https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR](https://openreview.net/group?id=ACM.org/CIKM/2024/Workshop/MMSR)**
 
 The deadline for paper submission is ~~August 10, 2024~~ **August 16, 2024** (23:59 P.M. GMT)
+
+### Camera Ready Instructions
+
+Please note that at least **one** author of each accepted paper **must** [register](https://cikm2024.org/registrations/) for the workshop and attend **in person** to present their paper.<br>_If none of the authors can attend, they may nominate an experienced in-person proxy to present their work._
+
+- Authors should prepare a slide deck for a 15-minute presentation.
+- After each presentation, 5 minutes will be allocated for follow-up questions.
+- Authors can reply to their acceptance emails with the camera-ready version (slide deck).
