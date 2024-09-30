@@ -40,6 +40,14 @@ _*Detailed schedule will be posted here closer to the workshop date._
       <strong><a href="https://www.linkedin.com/in/yubink/" style="text-decoration: none;color: black;">Dr. Yubin Kim</a></strong> is the Head of Engineering at Vody, a multimodal GenAI startup. Dr. Kim is a seasoned search & recommendations leader with experience in pragmatically solving multimodal problems at scale.
     </div>
   </div>
+
+  <div style="display: flex; align-items: center; margin-bottom: 3rem;">
+    <img src="assets/img/chirag.jpg" alt="Chirag Shah" style="border-radius: 50%; width: 100%; max-width: 150px; height: auto; margin-right: 1rem;">
+    <div>
+      <strong><a href="https://chiragshah.org/" style="text-decoration: none;color: black;">Dr. Chirag Shah</a></strong> is a Professor at the University of Washington, Seattle, Director of InfoSeeking Lab, and Co-Director of RAISE, a center for responsible AI. His research involves building intelligent information access systems, focusing on task-oriented search, proactive recommendations, and conversational systems, to make them personalized, robust, and trustworthy.
+    </div>
+  </div> 
+
 </div>
 
 ## Organizers
