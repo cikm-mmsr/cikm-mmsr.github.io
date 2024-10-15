@@ -16,13 +16,26 @@ MMSR will be a **full-day** workshop at [CIKM 2024](https://cikm2024.org/). The 
 
 The workshop will include keynote speeches, research paper presentations, interactive networking sessions, and a panel discussion on **_Emerging trends and challenges in multimodal search and recommendations_**. The workshop will primarily be in person. 
 
-_*Detailed schedule will be posted here closer to the workshop date._
+## Schedule
 
-- 2 invited talks
-- Long (20 min) contributed talks
-  - 15 min paper presentations
-  - 5 min lightning discussions
-- Panel discussion
+| Time          | Session Details                                                                                          |
+|---------------|---------------------------------------------------------------------------------------------------------|
+| 9:00 - 9:10   | **Opening Remarks**                                                                                      |
+| 9:10 - 9:50   | **Invited Talk: Topic TBD**<br>Speaker: Yubin Kim                                                        |
+| 9:50 - 10:10  | **Contributed Talk 1: Do We Trust What They Say, or What They Do? A Multimodal User Embedding Provides Personalized Explanations**<br>Authors: Zhicheng Ren, Zhiping Xiao, Yizhou Sun   |
+| 10:10 - 10:30 | **Contributed Talk 2: Understanding Modality Preferences in Search Clarification**<br>Authors: Leila Tavakoli, Giovanni Castiglia, Federica Calò, Yashar Deldjoo, Hamed Zamani, Johanne Trippas   |
+| 10:30 - 11:00 | **Coffee Break**                                                                                         |
+| 11:00 - 11:45 | **Invited Talk: Toward Transmodal Information Experiences (TIE)**<br>Speaker: Chirag Shah<br>Transmodal Information Experiences (TIE) enable users to seamlessly interact with information across multiple modalities—such as vision, voice, and touch—without being constrained by a specific input method. Chirag will discuss how understanding user intents and tasks can help design systems that focus on users’ goals rather than the input modality, with examples from his research.   |
+| 11:45 - 12:05 | **Contributed Talk 3: Evaluating Cost-Accuracy Trade-offs in Multimodal Search Relevance Judgements**<br>Authors: Silvia Terragni, Cuong Hoang, Joachim Daiber, Pallavi Gudipati, Pablo N. Mendes   |
+| 12:05 - 12:25 | **Contributed Talk 4: Smart Multi-Modal Search: Contextual Sparse and Dense Embedding Integration in Adobe Express**<br>Authors: Chirag Arora, Tracy Holloway King, Jayant Kumar, Yi Lu, Sanat Sharma, Arvind Srikantan, David Uvalle, Josep Valls-Vargas, Harsha Vardhan   |
+| 12:25 - 12:45 | **Networking Session**                                                                                   |
+| 12:45 - 1:45  | **Lunch Break**                                                                                          |
+| 1:45 - 2:30   | **Invited Talk: How Multimodality Can Help Customers Shop Better: An Amazon Perspective**<br>Speaker: Vamsi Salaka   |
+| 2:30 - 2:50   | **Contributed Talk 5: Designing Multimodal Search Interfaces**<br>Authors: Owen Pendrigh Elliott, Tom Hamer, Jesse Clark   |
+| 2:50 - 3:10   | **Contributed Talk 6: CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**<br>Authors: Xiangshuo Qiao, Xianxin Li, Xiaozhe Qu, Jie Zhang, Yang Liu, Yu Luo, Cihang Jin, Jin Ma   |
+| 3:10 - 3:30   | **Networking Session**                                                                                   |
+| 3:30 - 4:00   | **Coffee Break**                                                                                         |
+| 4:00 - 5:00   | **Panel Discussion: Emerging Trends and Challenges in Multimodal Search and Recommendations**   |
 
 ## Keynote Speakers
 
