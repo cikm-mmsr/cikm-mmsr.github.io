@@ -6,7 +6,7 @@ subtitle: "ACCEPTED PAPERS"
 
 **The following papers have been accepted at CIKM MMSR'24:**
 
-1. CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios [[PDF](assets/papers/paper_1.pdf)] [[Slides](assets/slides/slides_1.pptx)]<br>_Xiangshuo Qiao, Xianxin Li, Xiaozhe Qu, Jie Zhang, Yang Liu, yu luo, Cihang Jin, Jin Ma_
+1. CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios [[PDF](assets/papers/paper_1.pdf)] [[Slides](assets/slides/slides_1.pdf)]<br>_Xiangshuo Qiao, Xianxin Li, Xiaozhe Qu, Jie Zhang, Yang Liu, yu luo, Cihang Jin, Jin Ma_
 
 2. Understanding Modality Preferences in Search Clarification [[PDF](assets/papers/paper_2.pdf)]<br>_Leila Tavakoli, Giovanni Castiglia, Federica Calò, Yashar Deldjoo, Hamed Zamani, Johanne Trippas_
 
